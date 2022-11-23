@@ -10,7 +10,8 @@ it's one of my first projects that I build while learning more about Tailwind CS
 
 ## Demo
 
-Insert gif or link to demo
+<img width="823" alt="Screenshot 2022-11-23 at 10 56 47 PM" src="https://user-images.githubusercontent.com/75436867/203635485-a9d0005d-d206-4609-aaca-87f8000d637c.png">
+
 
 ## Acknowledgements
 
